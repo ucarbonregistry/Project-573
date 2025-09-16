@@ -50,3 +50,14 @@ annual average and the total CO2 emission reduction by the project activity is e
 t/CO2, whereas actual emission reduction achieved during the first CoU shall be submitted as a part
 of first monitoring and verification. 
 
+Country: India
+
+District: Jamnagar
+
+Village: Moti Bhalsan
+
+Taluka: Jamnagar
+
+State: Gujarat 
+
+
