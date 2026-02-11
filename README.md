@@ -59,5 +59,19 @@ Village: Moti Bhalsan
 Taluka: Jamnagar
 
 State: Gujarat 
+___________
+ISSUANCE DATE: 11/02/2026
+
+QTY: 4591
+
+MP-01: 2024
+___________
+Serial Number: 0001-000001-004591-UCR-CoU-IN-573-01012024-31122024
+
+Vintage Year: 2024
+
+Quantity: 4591
+_________________
+
 
 
